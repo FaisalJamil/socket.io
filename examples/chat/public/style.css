@@ -128,7 +128,7 @@ ul {
 }
 
 .username {
-  float: left;
+/*  float: left; In firefox unnecessary indentation was happening due to this*/
   font-weight: 700;
   overflow: hidden;
   padding-right: 15px;
